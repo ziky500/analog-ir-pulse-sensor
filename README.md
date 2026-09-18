@@ -14,7 +14,8 @@ I:
 
 - recreated the circuit schematic in KiCad based on the provided design,
 - designed the PCB layout in KiCad,
-- prepared the single-sided board layout for CNC milling,
+- prepared the single-sided board for CNC milling,
+- milled and drilled the PCB at the university,
 - manually assembled and soldered the board,
 - brought the circuit into operation,
 - tested the finished sensor.
