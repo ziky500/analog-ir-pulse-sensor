@@ -53,3 +53,8 @@ The editable KiCad project files are available in the [`hardware`](hardware/) di
 - `senzor_tepu.kicad_pro`
 - `senzor_tepu.kicad_sch`
 - `senzor_tepu.kicad_pcb`
+
+## Acknowledgements
+
+The original circuit design was provided by the Faculty of Electrical Engineering,
+Czech Technical University in Prague (CTU FEL).
