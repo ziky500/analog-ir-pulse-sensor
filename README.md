@@ -33,7 +33,7 @@ A complete PCB layout export is available here:
 
 ## Schematic
 
-![Schematic](images/schematic.png?v=2)
+![Schematic](images/schematic.png?raw=true&v=2)
 
 The original circuit design was provided by the university. I recreated the schematic in KiCad and used it as the basis for the PCB design.
 
